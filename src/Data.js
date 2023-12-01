@@ -113,7 +113,7 @@ export default [
         ]
     },
     {
-        id: 14,
+        id: 15,
         heading: 'Networking and Socket',
         subHeadings: [
             'Introduction to socket programming.',
@@ -121,14 +121,14 @@ export default [
         ]
     },
     {
-        id: 15,
+        id: 16,
         heading: 'Understanding the Standard Template Library (STL)',
         subHeadings: [
             'Explore C++ Standard Template Library (though C does not officially support it, understanding it can be beneficial).',
         ]
     },
     {
-        id: 16,
+        id: 17,
         heading: 'Debugging and Optimization',
         subHeadings: [
             'Learn to use debugging tools.',
@@ -136,7 +136,7 @@ export default [
         ]
     },
     {
-        id: 17,
+        id: 18,
         heading: 'Project Work',
         subHeadings: [
             'Undertake larger projects to apply your knowledge.',
@@ -144,7 +144,7 @@ export default [
         ]
     },
     {
-        id: 18,
+        id: 19,
         heading: 'Read Code',
         subHeadings: [
             'Analyze existing code to understand different coding styles.',
@@ -152,7 +152,7 @@ export default [
         ]
     },
     {
-        id: 19,
+        id: 20,
         heading: 'Explore Advanced Topics',
         subHeadings: [
             'Learn about advanced topics such as memory - mapped files, signal handling, etc.',
@@ -160,7 +160,7 @@ export default [
         ]
     },
     {
-        id: 20,
+        id: 21,
         heading: 'Benefit From',
         subHeadings: [
             'Remember to practice regularly, build small projects, and seek help when needed. Online coding platforms, forums, and communities can provide valuable support. Additionally, refer to authoritative C programming books for in-depth understanding and keep abreast of the C language developments.',
